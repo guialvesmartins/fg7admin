@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  nosso_num: 1
+  valor: 9.99
+  data_vencimento: 2019-04-06
+  data_baixa: 2019-04-06
+  forma_pagamento: 1
+  status: 1
+
+two:
+  client: two
+  nosso_num: 1
+  valor: 9.99
+  data_vencimento: 2019-04-06
+  data_baixa: 2019-04-06
+  forma_pagamento: 1
+  status: 1

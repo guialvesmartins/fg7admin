@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  plan: one
+  user: one
+  vencimento_lista: 2019-04-06
+  link_lista: MyString
+  nota: MyText
+
+two:
+  client: two
+  plan: two
+  user: two
+  vencimento_lista: 2019-04-06
+  link_lista: MyString
+  nota: MyText

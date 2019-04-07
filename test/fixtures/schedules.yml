@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  user: one
+  data: 2019-04-06
+  nota: MyText
+
+two:
+  client: two
+  user: two
+  data: 2019-04-06
+  nota: MyText
